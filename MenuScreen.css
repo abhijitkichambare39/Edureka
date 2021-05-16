@@ -289,7 +289,7 @@ input[type="range"i] {
 .btn-reset-style {
    opacity         : 1.5;
    background-color: green;
-   padding         : 10px;
+   padding         : 6px 20px 6px 20px;
    transition      : 0.4s;
    /* box-shadow      : 1px 1px 10px 10px #cbf5dd; */
    margin-top      : 20px;
@@ -297,6 +297,9 @@ input[type="range"i] {
    margin-right    : 10px;
    color: whitesmoke;
    border-radius: 10px;
+   letter-spacing: 3px;
+   font-size: 16px;
+   
 }
 
 .btn-reset-style:hover {
